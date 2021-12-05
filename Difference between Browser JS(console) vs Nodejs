@@ -1,0 +1,14 @@
+JS(browser):
+
+1)JavaScript is basically a client side web programming Language.
+2)Web pages are interactive with the help of JS only, So, JS is important in web development.
+3)JavaScript code only runs in the browser. Because, browser only have default JS Engine.
+4)JS code is converted to context DOM [tree-structure] with JS Engine [V8 Engine] and rendered to give proper view.
+
+Nodejs:
+
+1)Node.js is open source development platform runs JavaScript code on the Server Side.
+2)Node.js is not a programming Language & Framework. Node.js is a JavaScript runtime.
+3)Node.js have a JS Engine [V8Engine] so, JavaScript code is interact without the Browser and HTML.
+4)Node.js have a building Module through which Node.js can interact with Operating System [OS] , 
+Server ,and access the file system [read/write].
